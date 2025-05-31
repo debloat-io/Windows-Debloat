@@ -29,8 +29,8 @@ Typically, usage involves running a script with Administrator privileges in Powe
 
 ## 📋 Prerequisites
 
-* Windows 10 or Windows 11 (Specify exact supported versions if known).
-* PowerShell (Usually version 5.1 or higher).
+* Windows 10 & Windows 11.
+* PowerShell (Version 5.1 or higher).
 * Administrator Privileges to run the script.
 
 ## 🛠️ Contributing
