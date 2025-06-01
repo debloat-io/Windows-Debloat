@@ -1,57 +1,34 @@
-# 🧹 Debloat Windows - The Ultimate Bloatware Removal Tool
+# Debloat
 
-## 🌟 Key Features
+Debloat is the ultimate tool to securely remove bloatware and streamline your Windows system for superior speed and reliability.
 
-* **🗑️ Comprehensive Bloatware Removal:** Say goodbye to unwanted pre-installed software, manufacturer trialware, and annoying promotional apps.
-* **🚀 Performance Boost:** Experience significantly faster startup times and improved overall system responsiveness.
-* **🛡️ Privacy Enhancement:** Helps disable telemetry, tracking services, and unnecessary data collection features in Windows.
-* **🚫 Ad & Annoyance Reduction:** Works to minimize or remove built-in Windows ads, tips, and suggestions for a cleaner interface.
-* **⚙️ Customizable Debloating:** (Optional: if your tool has this) Offers options to select specific items or categories for removal, giving you control.
-* **🧹 System Cleanup:** (Optional: if your tool has this) Includes options for cleaning temporary files and other system clutter.
-* **🔒 Safe & Reversible (with precautions):** Designed with safety in mind. We always recommend creating a system restore point.
+## Features
+- **Clean, bloat-free system** by removing pre-installed manufacturer software and promotional apps.
+- **Ad-free user experience.**
+- **Faster startup and optimized performance.**
+- **Streamlined essential processes** with minimal background tasks.
+- **Minimalist and efficient user interface.**
 
-## ⚠️ Important Disclaimer
+## Installation
+1. Open PowerShell as Administrator.
+2. Visit [https://debloat.io/](https://debloat.io/) and copy the installation command provided on the homepage.
+3. Paste the command into PowerShell and press Enter to run the installer.
 
-This is a powerful tool that makes changes to your system.
-* **❗️ Use at your own risk.**
-* **💾 Always back up your important data and create a System Restore Point before running Debloat Windows.**
-* The developers are not responsible for any damage or data loss that may occur.
+## Usage
+After installation, Debloat will guide you through selecting which bloatware to remove. It's recommended to create a system restore point before proceeding to ensure you can revert changes if needed.
 
-## 🚀 Getting Started & How to Use
+## Frequently Asked Questions
 
-Ready to speed up your PC? 🎉
+### What exactly does Debloat remove?
+Debloat targets pre-installed manufacturer software, promotional apps, and non-essential Windows features that can consume resources and clutter your system. Specific removals can be customized.
 
-For the most up-to-date instructions, safety guidelines, and to securely obtain the execution command for Debloat Windows, please visit our **official website**:
+### Is this tool reversible if I change my mind?
+While Debloat aims for safe removals, creating a system restore point before running the tool is highly recommended. Some removed Windows Store apps can be reinstalled from the Microsoft Store.
 
-➡️ **[DEBLOAT.IO](https://debloat.io/)** ⬅️
+### Will Debloat affect my personal files or licensed software?
+No, Debloat is designed to leave your personal files (documents, photos, etc.) and legitimately licensed software untouched. It focuses on system-level bloatware and unwanted apps.
 
-Typically, usage involves running a script with Administrator privileges in PowerShell. Full details are provided on the website.
-
-## 📋 Prerequisites
-
-* Windows 10 & Windows 11.
-* PowerShell (Version 5.1 or higher).
-* Administrator Privileges to run the script.
-
-## 🛠️ Contributing
-
-Love Debloat Windows and want to help make it even better? Contributions are welcome! 🤝
-Feel free to:
-* Report a bug 🐞
-* Suggest a new feature ✨
-* Submit a Pull Request  memperbaiki
-
-Please check our contribution guidelines (if you have a `CONTRIBUTING.md` file) or open an issue to discuss your ideas.
-
-## ❓ FAQ (Brief)
-
-* **Q1: Is Debloat Windows safe to use?**
-    A: It's designed to be as safe as possible by targeting known bloatware. However, due to the nature of system modifications, creating a backup and system restore point is *crucial* before use. Always download the tool from the official website.
-
-* **Q2: What kind of bloatware does it remove?**
-    A: It targets common pre-installed software from manufacturers, trial versions of paid software, certain Microsoft Store apps that are often unwanted, and some built-in Windows features that collect data or show ads. For a detailed list, please refer to our official website.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the `LICENSE` file for details.
-(You will need to create a `LICENSE` file in your repository and choose a license, MIT is a common choice for open source projects).
+## Links
+- [GitHub Repository](https://github.com/debloat-io/Windows-Debloat)
+- [Documentation](https://docs.debloat.io/)
+- [Installation Guide](https://docs.debloat.io/Installation)
